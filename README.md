@@ -4,7 +4,7 @@ This is a web-based application developed for health-related based website in in
 This web-based health application has been developed for the accomplishment of the Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 Project Link:- https://calm-sea-0f705a700.3.azurestaticapps.net/index.html
-Demo Video:
+Demo Video:- https://youtu.be/gTN006qDCVg
 
 # Azure technologies used for Project
 * Static web apps
