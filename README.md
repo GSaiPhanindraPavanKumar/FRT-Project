@@ -19,3 +19,20 @@ Demo Video:
 * Included the feedback Survey form to increase the scope of improvement
 
 # Screenshots
+![Home Page](Home.png)
+
+![About Page](About.png)
+
+![Service Page](Service.png)
+
+![HealthBot Page](Healthbot.png)
+
+![Contact Page](Contact.png)
+
+# Tech Stack
+
+* Azure(Hosting)
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
