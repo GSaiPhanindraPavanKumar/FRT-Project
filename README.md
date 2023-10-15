@@ -19,15 +19,15 @@ Demo Video:
 * Included the feedback Survey form to increase the scope of improvement
 
 # Screenshots
-![Home Page](Home.png)
+![Home Page](assets/images/Home.png)
 
-![About Page](About.png)
+![About Page](assets/images/About.png)
 
-![Service Page](Service.png)
+![Service Page](assets/images/Services.png)
 
-![HealthBot Page](Healthbot.png)
+![HealthBot Page](assets/images/Healthbot.png)
 
-![Contact Page](Contact.png)
+![Contact Page](assets/images/Contact.png)
 
 # Tech Stack
 
